@@ -24,12 +24,15 @@
     }
   }
 
+  
+
 
   @include breakpoint($x-large) {
     padding-right: 0;
   }
 
   h2, h3, h4, h5, h6 {
+    color: purple;
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
