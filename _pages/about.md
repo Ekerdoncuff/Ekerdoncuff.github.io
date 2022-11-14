@@ -14,7 +14,7 @@ My research area is population genetics, both theoretical and applied. I like to
 
 Currently I am currently working on South Asian population history and local ancestry inference.
 
-Before that I completed my PhD (2021) in Population Genetics from the Sorbonne University where she worked with [Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and [Amaury Lambert](https://smile.cnrs.fr/people/amaury/) at [Atelier de BioInformatique](https://bioinfo.mnhn.fr/abi/presentation.FR.html) at the Natural History Museum and the [SMILE team](https://smile.cnrs.fr/index.php) at College de France, Paris, France.
+Before that I completed my PhD (2021) in Population Genetics from the Sorbonne University where I worked with [Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and [Amaury Lambert](https://smile.cnrs.fr/people/amaury/) at [Atelier de BioInformatique](https://bioinfo.mnhn.fr/abi/presentation.FR.html) at the Natural History Museum and the [SMILE team](https://smile.cnrs.fr/index.php) at College de France, Paris, France.
 During my Ph.D, I developed methods to infer the recent demography of human populations leveraging polymorphisms and genetic linkage data.
 My PhD manuscript can be found [here](https://tel.archives-ouvertes.fr/tel-03681808/document) and the oral presentation [here](https://www.youtube.com/watch?v=LfHKV86zDL8) (in french).
 

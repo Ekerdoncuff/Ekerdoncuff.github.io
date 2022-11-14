@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elise Kerdoncuff Personal Page"
+title                    : "Elise Kerdoncuff"
 title_separator          : "-"
 name                     : &name "Elise Kerdoncuff"
 description              : &description "personal description"
@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "UC Berkeley, CA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DmeXf_YAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kerdoncuff"
+  github           : "Ekerdoncuff"
   google_plus      :
   keybase          :
   instagram        :
