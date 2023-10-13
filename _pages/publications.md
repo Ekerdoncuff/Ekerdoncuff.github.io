@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-1. Freund, F., ***Kerdoncuff, E.***, Matuszewski, S., Lapierre, M., Hildebrandt, M., Jensen, J. D., Ferretti, L., Lambert, A., Sackton, T. B., Achaz, G. Interpreting the pervasive observation of U-shaped Site Frequency Spectra. [Preprint](https://doi.org/10.1101/2022.04.12.488084) (FF and EK contributed equally to this work)
+1. Freund, F., ***Kerdoncuff, E.***, Matuszewski, S., Lapierre, M., Hildebrandt, M., Jensen, J. D., Ferretti, L., Lambert, A., Sackton, T. B., Achaz, G. Interpreting the pervasive observation of U-shaped Site Frequency Spectra. (2023) PLOS Genetics [Article](https://doi.org/10.1371/journal.pgen.1010677) (FF and EK contributed equally to this work)
 
 2. Foutel-Rodier, F., Blanquart, F., Courau, P., Czuppon, P., Duchamps, J., Gamblin, J., ***Kerdoncuff, E.***, Kulathinal, R., Régnier, L., Vuduc, L., Lambert, A., Schertzer, E. From individual-based epidemic model to McKendrick-von Foerster PDEs: a guide to modeling and inferring COVID-19 dynamics. (2022) Journal of Mathematical Biology [Article](https://doi.org/10.1007/s00285-022-01794-4)
 
