@@ -20,6 +20,6 @@ author_profile: true
 
 2. Foutel-Rodier, F., Blanquart, F., Courau, P., Czuppon, P., Duchamps, J., Gamblin, J., ***Kerdoncuff, E.***, Kulathinal, R., Régnier, L., Vuduc, L., Lambert, A., Schertzer, E. From individual-based epidemic model to McKendrick-von Foerster PDEs: a guide to modeling and inferring COVID-19 dynamics. (2022) Journal of Mathematical Biology [Article](https://doi.org/10.1007/s00285-022-01794-4)
 
-3. ***Kerdoncuff, E.***, Lambert, A., Achaz, G. Testing for population decline using maximal linkage disequilibrium blocks. (2020) Theoretical Population Biology. [Article](https://www.sciencedirect.com/science/article/ pii/S0040580920300289)
+3. ***Kerdoncuff, E.***, Lambert, A., Achaz, G. Testing for population decline using maximal linkage disequilibrium blocks. (2020) Theoretical Population Biology. [Article](https://www.sciencedirect.com/science/article/pii/S0040580920300289)
 
 4. Ribardière, A., Centanni, J., Dano, A., Coudret, J., Daguin-Thiébaut, C. Houbin, C., ***Kerdoncuff, E.***, Jambut, S., Cordaux,R., Broquet, T. Female-biased sex ratios unrelated to Wolbachia infection in European species of the Jaera albifrons complex (marine isopods). (2018) Journal of Experimental Marine Biology and Ecology (509), 91-98. [Article](https://www.sciencedirect.com/science/article/pii/S0022098118301850)
