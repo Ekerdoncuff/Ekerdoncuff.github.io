@@ -9,9 +9,9 @@ redirect_from:
 
 I am a postdoc with [Priya Moorjani](https://moorjanilab.org) at University of California, Berkeley, USA.
 
-My research area is population genetics, both theoretical and applied. I like to develop and apply methods for estimating population history.
+My research area is population genetics, both theoretical and applied. I like to develop and apply methods for inferring population history.
 
-Currently I am currently working on South Asian population evolutionary history and on developing local ancestry inference methods.
+Currently I am currently working on South Asian population evolutionary history and on developing local ancestry inference methods. Using data from ~2,000 whole genoem sequences, we have reconstructed 50,000 years of evolutionary history of India: [preprint](https://doi.org/10.1101/2024.02.15.580575), [podcast](https://youtu.be/TjfY0K4RMVQ?feature=shared).
 
 Before that I completed my PhD (2021) in Population Genetics from the Sorbonne University where I worked with [Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and [Amaury Lambert](https://smile.cnrs.fr/people/amaury/) at [Atelier de BioInformatique](https://bioinfo.mnhn.fr/abi/presentation.FR.html) at the Natural History Museum and the [SMILE team](https://smile.cnrs.fr/index.php) at College de France, Paris, France.
 During my Ph.D, I developed methods to infer the recent demography of human populations leveraging polymorphisms and genetic linkage data.
