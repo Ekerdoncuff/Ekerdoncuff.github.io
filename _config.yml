@@ -83,7 +83,7 @@ author:
   name             : "Elise"
   avatar           : "dessin_margot.jpg"
   bio              : "Postdoc in population genetics"
-  location         : "UC Berkeley, CA, USA"
+  location         : "Institut Pasteur, Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DmeXf_YAAAAJ"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "e_kerdoncuff"
+  twitter          : #"e_kerdoncuff"
   vine             :
   weibo            :
   xing             :

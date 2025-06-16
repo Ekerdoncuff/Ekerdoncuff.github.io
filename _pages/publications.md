@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-1. ***Kerdoncuff, E.***, Skov L., Patterson N., Zhao W., Lueng Y.K., Schellenberg G.D., Smith J., Ganna A., Dey AB., Kardia S., Lee J., Moorjani P. 50,000 years of Evolutionary History of India: Insights from 2,700 Whole Genome Sequences. bioRxiv [Preprint](https://doi.org/10.1101/2024.02.15.580575) (EK and LS contributed equally to this work)
+1. ***Kerdoncuff, E.***, Skov L., Patterson N., Zhao W., Lueng Y.K., Schellenberg G.D., Smith J., Ganna A., Dey AB., Kardia S., Lee J., Moorjani P. 50,000 years of Evolutionary History of India: Impact
+on health and disease variation. Cell [Preprint](https://doi.org/10.1101/2024.02.15.580575) (EK and LS contributed equally to this work)
 
 2. ***Kerdoncuff, E.***, Lambert, A., Achaz, G. How demography shapes linkage disequilibrium with or without recombination. bioRxiv  [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.13.571342v1)
 
