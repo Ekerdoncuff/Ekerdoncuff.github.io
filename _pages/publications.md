@@ -17,10 +17,9 @@ author_profile: true
 
 1. ***Kerdoncuff, E.***, Marohn M., Cramer N., Dey S., Kardia S., Thangaraj K., Ségurel L., Lee J., Dey AB.,  Moorjani P. Revisiting the Evolution of Lactase Persistence: Insights from South Asian Genomes. bioRxiv [Preprint](https://doi.org/10.1101/2025.11.05.686799) (EK and MM contributed equally to this work)
 
-2. ***Kerdoncuff, E.***, Skov L., Patterson N., Zhao W., Lueng Y.K., Schellenberg G.D., Smith J., Ganna A., Dey AB., Kardia S., Lee J., Moorjani P. 50,000 years of Evolutionary History of India: Impact on health and disease variation. Cell [Article](https://doi.org/10.1016/j.cell.2025.04.027) (EK and LS contributed equally to this work)
+2. ***Kerdoncuff, E.***, Skov L., Patterson N., Zhao W., Lueng Y.K., Schellenberg G.D., Smith J., Ganna A., Dey AB., Kardia S., Lee J., Moorjani P. 50,000 years of Evolutionary History of India: Impact on health and disease variation. (2025) Cell [Article](https://doi.org/10.1016/j.cell.2025.04.027) (EK and LS contributed equally to this work)
 
 3. ***Kerdoncuff, E.***, Lambert, A., Achaz, G. How demography shapes linkage disequilibrium with or without recombination. bioRxiv  [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.13.571342v1)
-
 
 4. Freund, F., ***Kerdoncuff, E.***, Matuszewski, S., Lapierre, M., Hildebrandt, M., Jensen, J. D., Ferretti, L., Lambert, A., Sackton, T. B., Achaz, G. Interpreting the pervasive observation of U-shaped Site Frequency Spectra. (2023) PLOS Genetics [Article](https://doi.org/10.1371/journal.pgen.1010677) (FF and EK contributed equally to this work)
 
